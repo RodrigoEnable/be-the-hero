@@ -1,4 +1,4 @@
-![Logo](https://github.com/RodrigoEnable/be-the-hero/blob/master/be-the-hero.svg)
+![Logo](https://github.com/RodrigoEnable/be-the-hero/blob/main/be-the-hero.svg)
 
 ## Participação na Semana Omnistack
 Foi produzido no evento a versão web e mobile do Be The Hero, uma aplicação para doação financeira de ajuda a ONGs. O evento ocorreu de 23 a 29 de Março. Todos os recursos empregados nesse projeto estão listados abaixo.
